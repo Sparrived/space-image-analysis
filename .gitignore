@@ -1,0 +1,9 @@
+.venv
+/deeplab-resnet101-ade/input/*
+!/deeplab-resnet101-ade/input/readme.md
+/deeplab-resnet101-ade/ade-split-output/*
+/outputs/dis-2D-output/*
+/outputs/dis-3D-output/*
+/outputs/depth-output/*
+/outputs/temp-data/*
+/results/*
